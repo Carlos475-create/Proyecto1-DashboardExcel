@@ -10,7 +10,9 @@ Para la resolución de dichos problemas se han utilizado fórmulas y otras herra
 
 ## 🗂️ Estructura del Proyecto
 
-├──BlinkIT_Grocery_Data.xlsx ________#Datos crudos y procesados
+├──BlinkIT_Grocery_Data.xlsx ________#Datos crudos
+
+├──BlinkIT_Grocery_Data.xlsx.processed_________#Datos procesados
 
 ├──README.md____________________# Descripción del proyecto
 
@@ -19,5 +21,7 @@ Para la resolución de dichos problemas se han utilizado fórmulas y otras herra
 ## 🛠️ Instalación y Requisitos
 Este proyecto utiliza *Excel Version 16.89.1 (24091630)*
 
-## 📊 Resultados y Conclusiones
+## Next steps 
+A continuación sería interesante incluir más datos como meses, días y horas en que se producen las ventas para poder visualizar con mayor eficacia tendencias y patrones en las ventas por meses y tiendas de distinta categoría.
+Además debemos analizar como ha influido este análisis descriptivo en un futuro para la mejora en la toma de decisiones.
 
